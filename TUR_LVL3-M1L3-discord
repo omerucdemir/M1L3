@@ -1,0 +1,8 @@
+<script>start("c:\\Users\\Asus\\Kodland\\M1L3\\TUR_LVL3-M1L3-discord\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("__pycache__","__pycache__",1,0,"0 B",1733499694,"12/6/24, 6:41:34 PM");</script>
+<script>addRow(".git",".git",1,0,"0 B",1733499110,"12/6/24, 6:31:50 PM");</script>
+<script>addRow(".gitignore",".gitignore",0,11,"11 B",1733498679,"12/6/24, 6:24:39 PM");</script>
+<script>addRow("bot.py","bot.py",0,1799,"1.8 kB",1734100453,"12/13/24, 5:34:13 PM");</script>
+<script>addRow("config.py","config.py",0,10,"10 B",1734705342,"12/20/24, 5:35:42 PM");</script>
+<script>addRow("README.md","README.md",0,74,"74 B",1733498434,"12/6/24, 6:20:34 PM");</script>
